@@ -1,0 +1,3 @@
+*.bat
+/excluded
+*.Ds_Store
